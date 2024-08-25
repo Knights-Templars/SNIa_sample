@@ -1,0 +1,7 @@
+You are working on object SN2009dc
+Redshit = 0.021580
+The location of the object is RA 15:51:12.10 and DEC +25:42:28.5
+The host for this event is UGC 10064
+E(B-V)G = 0.059700 +/- 0.001500
+E(B-V)h = 0.100000 +/- 0.070000
+Distance modulus = 34.870000 +/- 0.080000

@@ -1,0 +1,7 @@
+You are working on object SN2005cf
+Redshit = 0.006461
+The location of the object is RA 15:21:32.21 and DEC -07:24:47.5
+The host for this event is MCG−01-39-003
+E(B-V)G = 0.083200 +/- 0.001300
+E(B-V)h = 0.090000 +/- 0.030000
+Distance modulus = 32.310000 +/- 0.110000

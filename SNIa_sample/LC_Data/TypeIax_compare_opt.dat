@@ -1,0 +1,19 @@
+Name	     Ni 	 t_diff  A		 JD_exp		 M_ej		v		E_K		 dm_B    kappa	 EB_V 	 DM     Lum_Max     M_B	   M_V		B_max		Metallicity	  Metallicity_Err    M_r		Mr_Err		Color			
+02cx         0.07    12.3   1816.6	 2452402.4	 0.70      6000     0.15     1.7     0.1     0.034   35.09    42.20   -17.53   -17.49   2452415.2   INDEF         INDEF              INDEF    	INDEF		darkorange 
+05hk         0.14    15.0   2789.17  2453669.65  1.13      6500     0.29     1.56    0.1     0.11    33.46    42.44   -18.02   -18.08   2453685.1   INDEF    	  INDEF              INDEF	    INDEF		lawngreen
+07qd         INDEF   INDEF  INDEF    INDEF       INDEF     INDEF    INDEF    INDEF   INDEF   INDEF   INDEF    INDEF	   INDEF    INDEF   INDEF		INDEF		  INDEF              INDEF		INDEF		mediumturquoise
+08ha         0.004   9.3    749.9    2454773.0   0.13      2000     0.003    2.17    0.1     0.30	 31.64    41.11   -13.74   -14.21   2454783.23	8.16		  0.15              -15.15		0.14		brown
+09ku		 0.3     INDEF  INDEF    INDEF       INDEF     2000     INDEF    0.59    0.1     INDEF   INDEF    42.81	   INDEF   -18.4    INDEF		INDEF		  INDEF              INDEF		INDEF		crimson
+10ae         0.006   5.4    1485     2455246.48  0.13      5500     0.02     2.43    0.1     0.62    30.58    41.32   -14.46   -14.57   2455252.65	8.40		  0.18              -14.64  	0.54		navy
+11ay         0.23    INDEF  INDEF    2455633.0   0.8       9300	    0.5      1.11    0.1	 0.081   34.70    42.61   -18.15   -18.39   2455646.6	INDEF	      INDEF              INDEF		INDEF		gold
+12Z          0.17    12.97  1973     2455954.32  1.04      8000     0.39     1.58    0.1     0.11    32.59    42.60	  -18.27   -18.50   2455965.8   8.51	      0.31              -18.60 	    0.09		black
+PS1-12bwh    INDEF   INDEF  INDEF    INDEF       INDEF     INDEF    INDEF    INDEF   INDEF   0.26 	 34.91    INDEF	   INDEF    INDEF   INDEF	    8.87	      0.19              -17.69 	    0.24		darkorange
+13en         INDEF   INDEF  INDEF    INDEF       INDEF     INDEF    INDEF    INDEF   INDEF   0.50    34.11    42.53    INDEF    INDEF   INDEF	    INDEF	  	  INDEF              INDEF		INDEF		black
+14ck         0.03    8.32   1567.58  2456835.55  0.16      3000     0.009    1.76    0.1     0.50    31.94    42.03   -17.37   -17.29   2456845.1	INDEF		  INDEF              INDEF		INDEF		saddlebrown
+14ek         0.12    16.10  728.89   2456944.12  0.90      4500     0.11     1.54    0.1     0.05    34.99    42.31   -17.32   -17.66   2456958.4   INDEF		  INDEF              INDEF		INDEF		palevioletred
+14dt         INDEF   INDEF  INDEF    INDEF       INDEF     INDEF    INDEF    1.35    0.1     0.02    30.81    INDEF   -18.13   -18.33   INDEF	    INDEF		  INDEF              INDEF		INDEF		darkviolet
+15H          INDEF   INDEF  INDEF    INDEF       INDEF     INDEF    INDEF    INDEF   INDEF   0.048   33.91    INDEF    INDEF    INDEF   INDEF	    INDEF		  INDEF              INDEF		INDEF		purple
+19gsc        0.0019  9.847  1844.80  2458627.24  0.26      3500     0.019    INDEF   INDEF   0.01    33.60    40.69    INDEF    INDEF   INDEF		8.10		  0.06              -13.97 	    0.16		slategray
+19muj        0.017   6.2    807.3    2458699.52  0.14      5000     0.024    2.4     INDEF   0.023	 32.66	  41.80   -16.36   -16.42   2458707.8	INDEF		  INDEF              INDEF 	    INDEF		darkgoldenrod
+#2020sck     0.12    9.32   1273.78  2459086.12  0.34      5000     0.05     2.03    0.1     0.025   34.24    42.51   
+

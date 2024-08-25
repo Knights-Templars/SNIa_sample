@@ -1,0 +1,31 @@
+# SN 2002cx: The Most Peculiar Known Type Ia Supernova
+# THE EVOLUTION OF THE PECULIAR TYPE Ia SUPERNOVA SN 2005hk OVER 400 DAYS
+# SN 2008ha: AN EXTREMELY LOW LUMINOSITY AND EXCEPTIONALLY LOW ENERGY SUPERNOVA
+# Optical and near-IR observations of the faint and fast 2008ha-likesupernova 2010ae
+# OISTER OPTICAL AND NEAR-INFRARED OBSERVATIONS OF TYPEIAXSUPERNOVA 2012Z
+# Exploring the optical behaviour of a Type Iax supernova SN 2014dt 
+# Optical observations of the 2002cx-like supernova 2014ek and characterizations of SNe Iax 
+# SN 2019muj – a well-observed Type Iax supernova that bridges the luminosity gap of the class
+# The lowest of the low: discovery of SN 2019gsc and the nature of faint Iax supernovae (delta_m(r))
+Name	 B_maximum    	delta_mB	delta_mB_err	EB_V	EB_V_err	D	    D_err	DM	    DM_Err	Marker	Color	    Data	   Source    Epoch 
+2002cx   415.2	        1.70	  0.11	        0.034    0.005      INDEF   INDEF	35.09	0.32	  o      red        BVRI 	   L03P07	 2452000
+2005hk   685.34         1.68      0.05          0.11     0.005      INDEF   INDEF   33.46   0.27	  p      blue		UBVRI      S08       2453000		
+2008ha   2454783.23     2.17      0.02          0.08     0.005      INDEF   INDEF   31.64   0.15	  D      violet	    BVRIJHK    RF09      0
+2010ae   252.65         2.43      0.20          0.12     0.42       13.1    3.5     30.58   0.58      H      black	    BgVrizYJH  SM14	     2455000
+2011ay   5646.6         1.11      0.16          0.081    0.00       86.9    6.9     34.70   0.17      o      crimson    uvw1UBVRI  S15       2450000
+2012Z    55965.8        1.43      0.02          0.11     0.03       29.4    3.8     32.34   0.28      *     navy       UVOIR	   Y15S15	 2400000
+PS1-12bwh 56224.9        INDEF    INDEF          0.26     0.07       INDEF   INDEF   34.91   0.15      h     olivedrab  griz       MR17      2450000.5
+2013en   56503.80       INDEF    INDEF          0.50     0.005      INDEF   INDEF   34.11   0.15      X      green      BVRI       Liu15     2400000.5
+2014dt   56950.4        1.35      0.06          0.02	 0.005      INDEF   INDEF   30.81   0.20	  x      pink		BVRIJHK    K18       2400000.5
+2014ck   56845.05       1.76      0.15          0.50     0.10       INDEF   INDEF   31.94   0.15      .      orange     uBgVriJHK  TL16      2400000.5
+2014ek   56958.39       1.54      0.17          0.054    0.005      INDEF   INDEF   34.99   0.20      P      teal		BVRIgri	   Li18	     2400000.5
+2015H    57061.9        0.69      0.69          0.048    0.005      60.57   1.95    33.91   0.07      o      cyan		gVri	   MR16	     2400000.5
+2019muj  58707.8        2.4       0.01          0.023    0.005      34.1    2.9     32.66   0.18      d      yellow     UVuUBgvrRi BB21      2400000.5
+2019gsc  58638.82       0.91      0.10          0.01     0.005      INDEF   INDEF   33.60   0.02      s      brown		grizy	   SS20	     2400000.5
+
+
+
+
+
+
+	

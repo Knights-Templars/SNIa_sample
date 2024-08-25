@@ -1,0 +1,7 @@
+You are working on object SN2011fe
+Redshit = 0.000810
+The location of the object is RA 14:03:05.81 and DEC +54:16:25.4
+The host for this event is M101
+E(B-V)G = 0.007400 +/- 0.000100
+E(B-V)h = 0.032000 +/- 0.045000
+Distance modulus = 29.040000 +/- 0.190000

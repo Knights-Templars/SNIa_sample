@@ -1,0 +1,27 @@
+# SN 2002cx: The Most Peculiar Known Type Ia Supernova
+# THE EVOLUTION OF THE PECULIAR TYPE Ia SUPERNOVA SN 2005hk OVER 400 DAYS
+# SN 2008ha: AN EXTREMELY LOW LUMINOSITY AND EXCEPTIONALLY LOW ENERGY SUPERNOVA
+# Optical and near-IR observations of the faint and fast 2008ha-likesupernova 2010ae
+# OISTER OPTICAL AND NEAR-INFRARED OBSERVATIONS OF TYPEIAXSUPERNOVA 2012Z
+# Exploring the optical behaviour of a Type Iax supernova SN 2014dt 
+# Optical observations of the 2002cx-like supernova 2014ek and characterizations of SNe Iax 
+# SN 2019muj – a well-observed Type Iax supernova that bridges the luminosity gap of the class
+# The lowest of the low: discovery of SN 2019gsc and the nature of faint Iax supernovae (delta_m(r))
+Name	 r_maximum	delta_mB	delta_mB_err	EB_V	EB_V_err	D	    D_err	DM	    DM_Err	Marker	Color
+2002cx   2415.2	 1.29	   0.11	  0.034    0.005      INDEF    INDEF	35.09	0.32	  o      red
+2005hk   685.34         1.68      0.05          0.11     0.005      INDEF   INDEF   33.46   0.01	  p      orange
+2008ha   2454783.23     2.17      0.02          0.08     0.005      INDEF   INDEF   21.3    0.03	  D      pink
+2010ae   255.78         2.03      0.20          0.62     0.42       13.1    3.5     30.58   0.58      H      black
+2012Z    55965.8        1.6       0.10          0.04     0.005      29.8    3.8     32.4    0.30      *      forestgreen
+2014dt   950.34         1.35      0.06          0.02	   0.005      INDEF   INDEF   21.44   0.03	  x      blue
+2014ek   56959.39       1.54      0.17          0.054    0.005      INDEF   INDEF   34.99   0.20      P      crimson
+2015H    57061.9        0.69      0.69          0.048    0.005      60.57   1.95    33.91   0.07      o      orange
+2019muj  58709.7        2.4       0.01          0.023    0.005      34.1    2.9     32.66   0.18      d      navy        
+2019gsc  58638.0       0.91      0.10          0.01     0.005      INDEF   INDEF   33.60   0.02      s      darkcyan
+
+
+
+
+
+
+	

@@ -1,0 +1,7 @@
+You are working on object SN2009ig
+Redshit = 0.009000
+The location of the object is RA 2:38:11.61 and DEC -1:18:45.1
+The host for this event is NGC1015
+E(B-V)G = 0.026900 +/- 0.000800
+E(B-V)h = 0.090000 +/- 0.010000
+Distance modulus = 32.600000 +/- 0.400000

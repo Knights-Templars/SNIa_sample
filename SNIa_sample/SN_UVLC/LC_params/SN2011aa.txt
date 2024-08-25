@@ -1,0 +1,7 @@
+You are working on object SN2011aa
+Redshit = 0.013000
+The location of the object is RA 07:36:42.63 and DEC +74:26:34.8
+The host for this event is PGC 021381
+E(B-V)G = 0.065000 +/- 0.003000
+E(B-V)h = 0.000000 +/- 0.000000
+Distance modulus = 33.750000 +/- 0.270000

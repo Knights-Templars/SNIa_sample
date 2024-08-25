@@ -1,0 +1,30 @@
+# 2014J Optical and NIR observations of the type Ia supernova SN 2014J ; Srivastav et al.,
+# 2003du Type Ia supenova SN 2003du: Optical observations; Anupama et al.,
+# 1990N & 1991T Optical Light Curves of the type Ia supernovae SN 1990N and SN 1991T; Lira et al.,
+# 2006gz The Luminous and Carbon-Rich Supernova 2006gz: A double degenerate merger? ; Hicken et al.,
+# 2012dn Supernova SN 2012dn: A spectroscopic clone of SN 2006gz ; Chakradhari et al.,
+# Testing SNe Ia distance measurement methods with SN 2011fe ; Vinko et al.,
+# A GOLDEN STANDARD TYPE IA SUPERNOVA SN 2005CF: OBSERVATIONS FROM THE ULTRAVIOLET TO THE NEAR-INFRARED WAVEBANDS; Wang et al. 
+# SN 2003du: 480 days in the life of a normal type Ia supernova; Stanishev et al.
+# Optical and Infrared Photometry of the nearby SN 2017cbv; Wee et al. 2018
+# Photometric and Spectroscopic Properties of Type Ia Supernova 2018oh with Early Excess Emission from the Kepler 2 Observations, Li et al, 2018
+# Testing SNe Ia distance measurement methods with SN 2011fe
+# 2012fr: Zhang
+
+
+Name B_maximum	delta_mB delta_mB_err M_Ni	EB_V	EB_V_err	Mbol Mbol_err	MB	MB_err MV	MV_err	RV		S-Correcrtion	K-Correction Distance   Distance_err Redshift Distance_modulus Marker	Color
+2014J	2456690.14	1.08	0.03	0.6		1.24	0.10	-18.9	0.20	INDEF	INDEF	-19.2	0.20	1.44	No			No	3.5     0.0	0.000677	27.73		+	green
+2003du	2452765.44	0.94	0.04	0.88	0.008	0.00		INDEF	INDEF	-19.34	0.3	INDEF	INDEF	3.10	No			No 	37.84   7.6	 0.0073		32.89		D	06d6a0
+1990N	2448082.70	1.03	0.06	INDEF	0.026	0.0002	INDEF	INDEF	INDEF	INDEF	INDEF	INDEF	INDEF	No			No	26.95   1.14	0.003		32.153		X	green
+1991T	2448375.70	0.95	0.05	INDEF	0.12	0.10	INDEF	INDEF	-19.37	INDEF	INDEF	INDEF	INDEF	No			No	13.00   0.48       INDEF		30.57		<	goldenrod
+2006gz	2454020.20	0.69	0.04	1.20	0.18	0.05	INDEF	INDEF	-19.91	0.21	-19.74	0.16	3.1		No			Yes		97.72   0.0	0.0237	34.95		o	crimson
+2012dn	2456132.89	0.92	0.04	0.82	0.06	0.0	INDEF	INDEF	-19.52	0.15	-19.42	0.15	3.1		No			No		42.65   0.0	0.010	33.15		x	lime
+2011fe 2455814.4   1.07     0.06    INDEF   0.04   0.0 INDEF INDEF   INDEF   INDEF   INDEF   INDEF   3.1 No No INDEF INDEF   0.0008 INDEF o darkblue
+2005cf  2453533.66  1.05    0.03    INDEF    0.10   0.03   INDEF   INDEF   INDEF   INDEF   INDEF   INDEF   3.1     YES YES   33.73    0.8  INDEF   32.89   *   orange
+1991T_Lira	2448375.70	0.95	0.05	INDEF	0.12	0.10	INDEF	INDEF	-19.37	INDEF	INDEF	INDEF	INDEF	No			No	13.00   0.48       INDEF		30.57		<	goldenrod  						
+2003du_S 2452766.38  1.02 0.05  0.68    0.0081  0.05  INDEF	INDEF -19.34  0.3	INDEF	INDEF	3.10 Yes No 36.14 2.58 INDEF 32.79 o red	
+2017cbv 840.97 0.88	0.07	INDEF	0.145	0.001	INDEF	INDEF	INDEF	INDEF	-19.38	0.027	3.1	No	No	12.58	1.98	INDEF	30.49	p black	
+2018oh 2458163.2 0.96	0.03	0.55 0.04 0.00 INDEF	INDEF	-19.47	0.10	INDEF	INDEF	3.1	No	No	52.7	1.2	33.61 0.05	8 dodgerblue
+2012fr 56243.50 0.85	0.05	0.88	0.03 0.00 INDEF INDEF -19.49 0.06 -19.48 0.06 3.1 No No INDEF INDEF INDEF 31.38 + darkmagenta
+2001ay 2023.02	0.68	0.05	0.58   0.098   0.001     INDEF  INDEF   -19.19  0.12  INDEF INDEF  3.1   Yes	Yes	INDEF	INDEF	0.031 35.55  P f48c06
+2009dc 947.1    0.71    0.03    1.20   0.071   0.001     INDEF  INDEF -20.22   0.30   -20.07  0.23   3.1   Yes   Yes   INDEF   INDEF    INDEF   34.86  X 03045e

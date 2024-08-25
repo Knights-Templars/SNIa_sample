@@ -1,0 +1,7 @@
+You are working on object SN2012cg
+Redshit = 0.001400
+The location of the object is RA 12:27:12.83 and DEC +9:25:13.2
+The host for this event is NGC 4424
+E(B-V)G = 0.017900 +/- 0.000400
+E(B-V)h = 0.180000 +/- 0.050000
+Distance modulus = 30.900000 +/- 0.300000

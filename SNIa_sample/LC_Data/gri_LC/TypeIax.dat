@@ -1,0 +1,31 @@
+# SN 2002cx: The Most Peculiar Known Type Ia Supernova
+# THE EVOLUTION OF THE PECULIAR TYPE Ia SUPERNOVA SN 2005hk OVER 400 DAYS
+# SN 2008ha: AN EXTREMELY LOW LUMINOSITY AND EXCEPTIONALLY LOW ENERGY SUPERNOVA
+# Optical and near-IR observations of the faint and fast 2008ha-likesupernova 2010ae
+# OISTER OPTICAL AND NEAR-INFRARED OBSERVATIONS OF TYPEIAXSUPERNOVA 2012Z
+# Exploring the optical behaviour of a Type Iax supernova SN 2014dt 
+# Optical observations of the 2002cx-like supernova 2014ek and characterizations of SNe Iax 
+# SN 2019muj – a well-observed Type Iax supernova that bridges the luminosity gap of the class
+# The lowest of the low: discovery of SN 2019gsc and the nature of faint Iax supernovae (delta_m(r))
+Name	 g_maximum    	delta_mg	delta_mB_err	EB_V	EB_V_err	D	    D_err	DM	    DM_Err	Marker	Color	    Data	   Source    Epoch 
+2002cx   415.2	        1.70	  0.11	        0.034    0.005      INDEF   INDEF	35.09	0.32	  o      #03071e        BVRI 	   L03P07	 2452000
+2005hk   686.0         1.36     0.05          0.11     0.005      INDEF   INDEF   33.46   0.27	  p      #6a040f		UBVRI      S08         2453000		
+2008ha   2454783.76     1.80      0.02          0.08     0.005      INDEF   INDEF   31.64   0.15	  D      #80b918	    BVRIJHK    RF09      0
+2010ae   253.00         1.51      0.20          0.12     0.42       13.1    3.5     30.58   0.58      H      #d00000	    BgVrizYJH  SM14	     2455000
+2011ay   5646.6         1.11      0.16          0.081    0.00       86.9    6.9     34.70   0.17      o      #fca311        uvw1UBVRI  S15       2450000
+2012Z    5969.78        1.30      0.02          0.036     0.03       29.8    3.8     32.59   0.09      *      #d90429        UVOIR	   Y15S15	 2450000
+PS1-12bwh 56221.2        INDEF    INDEF          0.26     0.07       INDEF   INDEF   34.91   0.15      h     #118ab2        griz       MR17      2450000.5
+2013en   56503.80       INDEF    INDEF          0.50     0.005      INDEF   INDEF   34.11   0.15      X      #073b4c        BVRI       Liu15     2400000.5
+2014dt   56950.4        1.35      0.06          0.02	 0.005      INDEF   INDEF   30.81   0.20	  x      #d90429		BVRIJHK    K18       2400000.5
+2014ck   56846.31       1.59      0.15          0.50     0.10       INDEF   INDEF   31.94   0.15      .      #b5179e        uBgVriJHK  TL16      2400000.5
+2014ek   56958.39       1.54      0.17          0.054    0.005      INDEF   INDEF   34.99   0.20      P      #003566		BVRIgri	   Li18	     2400000.5
+2015H    57061.9        0.69      0.69          0.048    0.005      60.57   1.95    33.91   0.07      o      #582f0e		gVri	   MR16	     2400000.5
+2019muj  58708.2        2.0       0.01          0.023    0.005      34.1    2.9     32.66   0.18      d      #1b4332        UVuUBgvrRi BB21      2400000.5
+2019gsc  58638.82       0.91      0.10          0.01     0.005      INDEF   INDEF   33.60   0.02      s      #7400b8		grizy	   SS20	     2400000.5
+
+
+
+
+
+
+	
